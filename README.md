@@ -47,6 +47,6 @@ Currently working on my **Thesis (TFG):** *"Designing an Intelligent Antivirus u
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/manuelmmedina" target="blank"><img align="center" src="https://img.shields.io/badge/-Manuel_Mora_Medina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/manuelmmedina/" alt="Manuel Mora Medina" height="25" width="160" /></a>
-<a href="mailto:manumedinap1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-manumedinap1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumedinap1@gmail.com" alt="Email" height="25" width="190" /></a>
+<a href="https://www.linkedin.com/in/manuelmmedina" target="blank"><img align="center" src="https://img.shields.io/badge/-Manuel_Mora_Medina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/manuelmmedina/" alt="Manuel Mora Medina" height="25" width="160" /></a>
+<a href="mailto:manuel.mmedina@alumnos.ump.es" target="blank"><img align="center" src="https://img.shields.io/badge/-manumedinap1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumedinap1@gmail.com" alt="Email" height="25" width="190" /></a>
 </p>
