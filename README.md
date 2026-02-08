@@ -1,4 +1,4 @@
-# Hi there, I'm Manuel Adrián 👋
+# Hi there, I'm Manuel Adrian 👋
 ### Software Engineering Student @ UPM | AI & Cybersecurity Enthusiast
 
 I'm a final-year student specializing in the intersection of **Artificial Intelligence** and **Cybersecurity**. My goal is to build intelligent defense systems using Deep Learning.
